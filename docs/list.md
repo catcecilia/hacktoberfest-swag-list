@@ -231,6 +231,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - You will receive a review, comment, and approval by a member of the Pusher team within a couple of days. All PRs accepted by the team will be marked as ‘hacktoberfest-accepted’ by October 31st.
 - **Notes**: More details [in the Pusher Hacktoberfest repo here](https://github.com/pusher/hacktoberfest/blob/main/README.md){:target="\_blank"}
 
+### S
+
+#### **Space Jelly and Cloudinary**
+
+- **Swag**: One Space Jelly sticker pack, Cloudinary Sticker Pack, Cloudinary Plush Unicorn
+- **Requirements**:
+    - Submit 1 pull request and get it merged to receive One Space Jelly sticker pack within the [Next.js WordPress Starter Repo](https://github.com/colbyfayock/next-wordpress-starter){:target="\_blank"}
+    - Submit 1 pull request and get it merged to receive One Space Jelly sticker pack, Cloudinary Sticker Pack, and Cloudinary Plush Unicorn within either the [Cloudinary Next.js Image Component repo](https://github.com/colbyfayock/next-cloudinary){:target="\_blank"} or the [Cloudinary Netlify Plugin repo](https://github.com/colbyfayock/netlify-plugin-cloudinary){:target="\_blank"}
+- **How to sign up**:
+    - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
+- **Notes**: More details [on their Hacktoberfest page here](https://spacejelly.dev/hacktoberfest/){:target="\_blank"}
+
+
 ### T
 
 #### **ToolJet**
